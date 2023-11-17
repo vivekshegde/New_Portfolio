@@ -1,2 +1,2 @@
 # New_Portfolio
-Completely build using HTML and CSS
+Completely build this project using HTML and CSS
